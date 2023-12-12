@@ -10,4 +10,4 @@ Outdoor positioning is a hot and important topic, especially in GPS-denied envir
 
 Email: Dr. S.-C. Lin <sclin@fcu.edu.tw​>
 
-# We expect to make the dataset and paper public in Q1 2024.
+※ We expect to make the dataset and paper public in Q1 2024.
